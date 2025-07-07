@@ -1,5 +1,3 @@
-# capstone_project_iitg
-
 # Capstone Project – IIT Guwahati
 
 ## 🔍 Project Overview
